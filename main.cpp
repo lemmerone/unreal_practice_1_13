@@ -7,7 +7,7 @@ void main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	int a, b;
+	float a, b;
 
 	std::cout << "Число два числа: ";
 	std::cin >> a >> b;
